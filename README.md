@@ -34,8 +34,9 @@ Java backend developer with expertise in building full-stack<br>projects, utiliz
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhipathak1&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+
 <div align="center">
+### ✍️ Random Dev Quote
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
