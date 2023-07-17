@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Java backend developer with expertise in building full-stack<br>projects, utilizing Java, Spring Boot, Hibernate, and restful<br>APIs. Strong problem solving skills, attention to detail, and a<br>proactive team player. Effective communicator and<br>deadline-oriented professional committed to delivering<br>high-quality software solutions.
 
 ## 🌐 PORTFOLIO
-[![LinkedIn](https://abhipathak1.github.io/) 
+(https://abhipathak1.github.io/) 
 
 
 
