@@ -2,9 +2,8 @@
 <h3 align="center">Java backend developer with expertise in building full-stack projects, utilizing Java, Spring Boot, Hibernate, and restful APIs. Strong problem solving skills, attention to detail, and a proactive team player. Effective communicator and deadline-oriented professional committed to delivering high-quality software solutions.</h3>
 
 
-## 🌐 PORTFOLIO
 (https://abhipathak1.github.io/) 
-## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhay-pathak-824070257/) 
 
 
