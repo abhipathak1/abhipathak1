@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay Pathak</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&center=true&width=435&lines=Java+Backend+Developer;Full-Stack+Web+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=435&lines=Java+Backend+Developer;Full-Stack+Web+Developer" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="center">Java backend developer with expertise in building full-stack projects, utilizing Java, Spring Boot, Hibernate, and restful APIs. Strong problem solving skills, attention to detail, and a proactive team player. Effective communicator and deadline-oriented professional committed to delivering high-quality software solutions.</h3>
