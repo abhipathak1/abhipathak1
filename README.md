@@ -3,11 +3,11 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://abhipathak1.github.io/](https://abhipathak1.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://abhipathak1.github.io/)
 
 - 📫 How to reach me **abhipathak3537@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=1L1wzxDdw63ikYNVvlOrrOWnI-Hbm_NXD](https://drive.google.com/uc?export=download&id=1L1wzxDdw63ikYNVvlOrrOWnI-Hbm_NXD)
+- 📄 Know about my experiences [Resume](https://drive.google.com/uc?export=download&id=1L1wzxDdw63ikYNVvlOrrOWnI-Hbm_NXD)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
