@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhay Pathak</h1>
 <h3 align="center">Java backend developer with expertise in building full-stack projects, utilizing Java, Spring Boot, Hibernate, and restful APIs. Strong problem solving skills, attention to detail, and a proactive team player. Effective communicator and deadline-oriented professional committed to delivering high-quality software solutions.</h3>
 
-
-(https://abhipathak1.github.io/) 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhay-pathak-824070257/) 
-
-
 - 👨‍💻 All of my projects are available at [Portfolio](https://abhipathak1.github.io/)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/uc?export=download&id=1L1wzxDdw63ikYNVvlOrrOWnI-Hbm_NXD)
 
 - 📫 How to reach me **abhipathak3537@gmail.com**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhay-pathak-824070257/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
