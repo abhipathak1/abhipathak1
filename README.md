@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay Pathak</h1>
 <h3 align="center">Java backend developer with expertise in building full-stack projects, utilizing Java, Spring Boot, Hibernate, and restful APIs. Strong problem solving skills, attention to detail, and a proactive team player. Effective communicator and deadline-oriented professional committed to delivering high-quality software solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhipathak1&label=Profile%20views&color=0e75b6&style=flat" alt="abhipathak1" /> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://abhipathak1.github.io/](https://abhipathak1.github.io/)
 
