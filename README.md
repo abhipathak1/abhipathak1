@@ -32,7 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhipathak1&" alt="abhipathak1" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhipathak1)](https://github.com/abhipathak1/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhipathak1&theme=github-compact)](https://github.com/abhipathak1/github-readme-activity-graph)
 
 
 
