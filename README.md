@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://abhipathak1.github.io/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/uc?export=download&id=1L1wzxDdw63ikYNVvlOrrOWnI-Hbm_NXD)
+- 📄 Know about my experiences [Resume](https://drive.google.com/uc?export=download&id=1L1wzxDdw63ikYNVvlOrrOWnI-Hbm_NXD) 
 
 - 📫 How to reach me **abhipathak3537@gmail.com**
 
