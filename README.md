@@ -33,6 +33,9 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white) 
 
 
+![](https://visitcount.itsvg.in/api?id=Abhipathak1&icon=0&color=0)
+
+
 
 
 # 📊 GitHub Stats:
