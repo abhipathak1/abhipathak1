@@ -6,11 +6,11 @@
 
 <h3 align="center">Java backend developer with expertise in building full-stack projects, utilizing Java, Spring Boot, Hibernate, and restful APIs. Strong problem solving skills, attention to detail, and a proactive team player. Effective communicator and deadline-oriented professional committed to delivering high-quality software solutions.</h3>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://abhipathak1.github.io/)
+- 👨‍💻 All of my projects are available at <a href="https://abhipathak1.github.io/" target="_blank">Portfolio</a>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/uc?export=download&id=1L1wzxDdw63ikYNVvlOrrOWnI-Hbm_NXD) 
+- 📄 Know about my experiences <a href="https://drive.google.com/uc?export=download&id=1L1wzxDdw63ikYNVvlOrrOWnI-Hbm_NXD" target="_blank">Resume</a> 
 
-- 📫 How to reach me **abhipathak3537@gmail.com**
+- 📫 How to reach me <a href="mailto:abhipathak3537@gmail.com" target="_blank">abhipathak3537@gmail.com</a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-pathak-824070257/) 
 
